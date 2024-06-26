@@ -1,0 +1,15 @@
+#myButton {  
+    background-color: crimson;
+    color: white;  
+    border-color: black;  
+  }  
+  
+  #myButton.dx-state-hover {  
+    background-color: orange;  
+    color: black;  
+  }  
+  
+  #myButton.dx-state-active {  
+    background-color: darkorange;  
+    color: black;  
+  }

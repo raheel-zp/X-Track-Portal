@@ -1,0 +1,29 @@
+.field-icon {
+  float: right;
+  margin-left: -25px;
+  margin-top: -25px;
+  position: relative;
+  z-index: 2;
+}
+
+.container {
+  padding-top: 15px;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* #gridTopScroll {
+  width: 500px;
+  height: 20px;
+  overflow-x: scroll;
+  overflow-y: hidden;
+}
+
+#gridTopScrollInner {
+  width: 3000px;
+  height: 20px;
+}
+.dx-scrollbar-horizontal{
+  top:0;
+} */
